@@ -1,7 +1,7 @@
 # React Photo Gallery
 
 cloudinary account
-[https://cloudinary.com/users/register/free](here)
+[https://cloudinary.com/](here)
 
 ## Start the server
 
